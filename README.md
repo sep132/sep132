@@ -2,7 +2,8 @@
 
 I’m currently learnin **TypeScript** and **Luau**.
 
-#My Skills.
+# My Skills.
+
 [![My Skills](https://skillicons.dev/icons?i=,html,css,ts,robloxstudio,lua)](https://skillicons.dev)
 <!--
 **sep132/sep132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
