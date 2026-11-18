@@ -8,7 +8,10 @@ I’m currently learnin **TypeScript** and **Luau**.
 
 [![My Skills](https://skillicons.dev/icons?i=,ts,robloxstudio,lua)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/<typescript>-<#3178C6>?style=for-the-badge&logo=<ts>&logoColor=white">
+<div align=center>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+    <br>
+</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sep132)](https://github.com/anuraghazra/github-readme-stats)
 <!--
