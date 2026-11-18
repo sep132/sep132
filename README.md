@@ -1,7 +1,9 @@
 ## HI.
 
-I’m currently learnin **Typescript** and **Luau**.
+I’m currently learnin **TypeScript** and **Luau**.
 
+#My Skills.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sep132)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sep132/sep132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
