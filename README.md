@@ -2,7 +2,7 @@
 
 I’m currently learnin **TypeScript** and **Luau**.
 
-# My Skills.
+# My lang 😶‍🌫️
 
 [![My Skills](https://skillicons.dev/icons?i=,ts,robloxstudio,lua)](https://skillicons.dev)
 
