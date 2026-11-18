@@ -2,7 +2,7 @@
 
 I’m currently learnin **TypeScript** and **Luau**.
 
-###I began my coding journey in 2025, took a break in 2026 due to **burnout**, and recently jumped back in a few weeks ago.
+### I began my coding journey in 2025, took a break in 2026 due to **burnout**, and recently jumped back in a few weeks ago.
 
 # My lang 😶‍🌫️
 
